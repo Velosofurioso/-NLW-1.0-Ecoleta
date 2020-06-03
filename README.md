@@ -21,8 +21,8 @@
 <p align="center">
   <a href="#-About-The-Project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Layouts">Layouts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-How-To-Use">How to use</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-layouts">Layouts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-To-Use">How to use</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -45,12 +45,12 @@ This project was developed with the following technologies:
 - [React][react]
 - [React Native][reactnative]
 
-## Layouts 🖌️:construction:
+## :construction: 🖌️ Layouts :construction:
 
 This section is in production
 
 
-## How To Use :information_source:
+## :information_source: How To Use 
 
 To run this project make sure you have install :[Git](https://git-scm.com), [Node.js][node]
 
