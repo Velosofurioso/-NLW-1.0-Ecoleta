@@ -32,7 +32,7 @@
   people with organizations or companies that carry out waste collection that is more harmful to the environment, such as batteries, cooking oil, etc.
 
 <h1 align="center">
-    <img title="Example" src=".github/logo_ecolab.png"/>
+    <img  src=".others/logo_ecolab.png"/>
 </h1>
 
 
@@ -45,12 +45,12 @@ This project was developed with the following technologies:
 - [React][react]
 - [React Native][reactnative]
 
-## :construction: Layouts 🖌️:construction:
+## Layouts 🖌️:construction:
 
 This section is in production
 
 
-## :information_source: How To Use
+## How To Use :information_source:
 
 To run this project make sure you have install :[Git](https://git-scm.com), [Node.js][node]
 
