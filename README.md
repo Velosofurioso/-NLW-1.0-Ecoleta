@@ -1,7 +1,7 @@
 <h3 align="center">:construction: Project in Development :construction:</h3>
 
 <h1 align="center">
-    <img alt="NextLevelWeek Logo" title="#NLWLogo" src=".github/nlwLogo.svg" width="200px" />
+    <img alt="NextLevelWeek Logo" title="#NLWLogo" src=".others/nlwLogo.svg" width="200px" />
 </h1>
 
 <p align="center">
@@ -21,8 +21,8 @@
 <p align="center">
   <a href="#-About-The-Project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layouts">Layouts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-To-Use">How to use</a>&nbsp;&nbsp;&nbsp;
+  <a href="#construction-%EF%B8%8F-layouts-construction">Layouts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
