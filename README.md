@@ -22,7 +22,7 @@
   <a href="#-About-The-Project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Layouts">Layouts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-How-To-Use">How to use</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -45,8 +45,9 @@ This project was developed with the following technologies:
 - [React][react]
 - [React Native][reactnative]
 
-## :construction:🖌️ Layouts :construction:
+## :construction: Layouts 🖌️:construction:
 
+This section is in production
 
 
 ## :information_source: How To Use
