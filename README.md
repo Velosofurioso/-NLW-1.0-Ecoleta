@@ -68,7 +68,22 @@ $ cd NLW-1.0-Ecoleta/Backend
 # Install the necessary dependencies for the project 
 $ npm install
 
-# With the dependencies installed first start the API
+# Install the necessary dependencies for the project 
+$ npm install
+
+# Install the necessary dependencies for the project 
+$ npm install
+
+# To create sqlite tables run
+$ npm run knex:migrate
+
+# To create sqlite tables run
+$ npm run knex:migrate
+
+# Create the seeds
+$ npm run knex:seed
+
+# With the settings made, run the API
 $ npm dev
 
 ```
