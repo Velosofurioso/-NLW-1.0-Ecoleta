@@ -88,6 +88,9 @@ $ npm dev
 
 ```
 
+*OBS. 
+If you run the mobile project, if possible, I recommend that you run it using virtualization on your pc, because if it runs directly on your cell phone, you will need to change the address being used for the API to make the requests in the project to your computer's ip address.
+
 ### To run the :construction: Frontend :construction:
 
 ```bash
