@@ -54,7 +54,7 @@ To run this project make sure you have install :[Git](https://git-scm.com), [Nod
 
 On the command line:
 
-### To run the :construction: API :construction:
+### To run the API
 
 ```bash
 # Use the command below to clone this repository
@@ -89,7 +89,7 @@ $ npm dev
 *OBS. 
 If you run the mobile project, if possible, I recommend that you run it using virtualization on your pc, because if it runs directly on your cell phone, you will need to change the address being used for the API to make the requests in the project to your computer's ip address.
 
-### To run the :construction: Frontend :construction:
+### To run the Frontend
 
 ```bash
 #Inside the project, go to the frontend folder root
