@@ -43,10 +43,6 @@ This project was developed with the following technologies:
 - [React][react]
 - [React Native][reactnative]
 
-🖌️ Layouts
-
-This section is in production
-
 
 ## :information_source: How To Use 
 
