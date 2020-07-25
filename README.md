@@ -1,5 +1,3 @@
-<h3 align="center">:construction: Project in Development :construction:</h3>
-
 <h1 align="center">
     <img alt="NextLevelWeek Logo" title="#NLWLogo" src=".others/nlwLogo.svg" width="200px" />
 </h1>
@@ -45,7 +43,7 @@ This project was developed with the following technologies:
 - [React][react]
 - [React Native][reactnative]
 
-## :construction: 🖌️ Layouts :construction:
+🖌️ Layouts
 
 This section is in production
 
